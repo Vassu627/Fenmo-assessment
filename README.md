@@ -6,8 +6,8 @@ A minimal full-stack Expense Tracker built with a focus on **correctness under r
 
 ## Live Demo
 
-- Frontend: _[Add your Vercel link here]_
-- Backend API: _[Add your Render/Railway link here]_
+- Frontend: https://fenmo-assessment-theta.vercel.app/
+- Backend API: https://outstanding-grace-production-9f84.up.railway.app/
 
 ---
 
