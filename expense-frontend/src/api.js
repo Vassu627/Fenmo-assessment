@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://your-app.up.railway.app",
+  baseURL: "https://outstanding-grace-production-9f84.up.railway.app/",
 });
 export const generateKey = () => {
   return "key-" + Date.now() + "-" + Math.random();
